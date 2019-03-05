@@ -53,4 +53,6 @@ on the queue on a given date.
      • See Figure 1 for an illustration.
      
      
+![alt text](https://github.com/RedGrinGrumbler/cs303-project1/blob/master/fullsizeoutput_521.jpeg)
+     
      
