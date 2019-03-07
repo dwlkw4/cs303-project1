@@ -2,13 +2,25 @@
 # Team Members: Adam Smith, David Leatherman, 
 Project Option 1B - Book Tracker
 
-Member Responsibilities
+**Member Responsibilities**
 
 	Adam: 
 	
 	David:
 	
 	johnD:
+	
+**To-Do**
+
+- Book Class
+	* Book List Tracker
+- Employee Class
+	* Employee Tracking System (Whos Next)
+- Book Retention Tracker
+- UML Layout
+- Main.cpp
+- Algorithm Design
+
 
 
 # Technical Requirements
