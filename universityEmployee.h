@@ -15,6 +15,8 @@ private:
 
 public:
 
+    universityEmployee();
+    universityEmployee(string newEmployeeName);
 
 };
 
