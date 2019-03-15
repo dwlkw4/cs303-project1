@@ -8,7 +8,7 @@ Project Option 1B - Book Tracker
 	
 	David:
 	
-	johnD:
+	Brad:
 	
 **To-Do**
 
