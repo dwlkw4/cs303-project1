@@ -21,6 +21,13 @@ Project Option 1B - Book Tracker
 - Main.cpp
 - Algorithm Design
 
+**Project Guidelines (Rules)**
+
+- All variables must begin with lowercase and follow the rules of Camel case labeling with variables
+- All commits must have a unique message to github. We do not need duplicate commit messages that specifically say what was changed
+- Comment where needed
+- Create your OWN branch on your local machine and/or GitHub and this push to your branch. We will need to create a branching into master system that works best for all.
+
 
 
 # Technical Requirements

@@ -9,6 +9,9 @@
 class universityEmployee {
 
 private:
+    string employeeName
+    int waitTime
+    int retainTime
 
 public:
 
