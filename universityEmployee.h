@@ -8,6 +8,11 @@
 
 class universityEmployee {
 
+private:
+
+public:
+
+
 };
 
 

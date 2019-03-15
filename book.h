@@ -8,6 +8,11 @@
 
 class book {
 
+private:
+
+public:
+
+
 };
 
 

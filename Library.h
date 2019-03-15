@@ -8,6 +8,11 @@
 
 class Library {
 
+private:
+
+public:
+
+
 };
 
 
