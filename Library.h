@@ -9,6 +9,9 @@
 class Library {
 
 private:
+    list<Book> toBeCirculated;
+    list<Book> archivedBooks;
+    list<Employee*> universityEmployeeList;
 
 public:
 
